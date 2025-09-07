@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chakri and I'm a AI/ML Developer and Full-Stack Dev (MERN)</p>
+<p align="left">My name is Chakri. A final year student at VIT Bhopal who loves building things for the web. </p>
 
 ###
 
